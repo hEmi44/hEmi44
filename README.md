@@ -2,7 +2,7 @@
 
 ### Currently
 
-- Building back-end features and the reporting layer of enterprise software for statutory auditors and accountants
+- Building back-end features and the reporting layer of enterprise software for statutory auditors
 - Designing an internal platform for the team
 - Shipping a privacy-first side project, building v1
 
