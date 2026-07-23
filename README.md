@@ -16,7 +16,7 @@ Side projects Next.js · Expo · Supabase
 
 Tooling Claude · Obsidian · Linear · Tailscale
 
-Learning Sentry · ImprovMX · self-hosting
+Learning Sentry · ImprovMX
 
 Used before Java · Spring · Kafka · Liquibase
 
