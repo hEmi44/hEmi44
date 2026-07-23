@@ -4,7 +4,7 @@
 
 - Building back-end features and the reporting layer of enterprise software for statutory auditors and accountants
 - Designing an internal platform for the team
-- Shipping a privacy-first side project, more on that once v1 is out
+- Shipping a privacy-first side project, v1 building
 
 ### How I work
 
