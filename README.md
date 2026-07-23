@@ -1,5 +1,3 @@
-Backend dev in the audit and compliance world. Data, AI, security, devops. Privacy-first side projects the rest of the time.
-
 **PHP/Symfony · PostgreSQL · Docker · Linux**
 
 ### Currently
