@@ -1,15 +1,13 @@
-hello there ⚡
-<!--
-**hEmi44/hEmi44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend dev in the audit and compliance world. Data, AI, security, devops. Privacy-first side projects the rest of the time.
 
-Here are some ideas to get you started:
+**PHP · Symfony · PostgreSQL · Docker · Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+- Building back-end features and the reporting layer of enterprise software for statutory auditors and accountants
+- Designing an internal platform for the team: client management, support, application monitoring
+- Shipping a privacy-first side project, more on that once v1 is out
+
+### How I work
+
+Data structure over data contents. Privacy by design rather than as a final checkbox. AI-assisted since early 2025, for workflows that save time instead of generating noise.
