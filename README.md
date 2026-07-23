@@ -8,7 +8,7 @@
 
 <details> <summary><b>Full stack and tools</b></summary> <br>
 
-Daily PHP · Symfony · PostgreSQL · Docker · Git · GitHub · Bitbucket · Linux
+Daily PHP · Symfony · PostgreSQL · Docker · Git · GitHub · Bitbucket · Linux · Postman
 
 Scripting Bash · Python
 
