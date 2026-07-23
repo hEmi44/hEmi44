@@ -5,7 +5,7 @@ Backend dev in the audit and compliance world. Data, AI, security, devops. Priva
 ### Currently
 
 - Building back-end features and the reporting layer of enterprise software for statutory auditors and accountants
-- Designing an internal platform for the team: client management, support, application monitoring
+- Designing an internal platform for the team
 - Shipping a privacy-first side project, more on that once v1 is out
 
 ### How I work
