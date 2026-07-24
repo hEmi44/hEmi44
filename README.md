@@ -10,6 +10,8 @@
 
 Daily PHP · Symfony · PostgreSQL · Docker · Git · Linux
 
+Side-projects Supbase · NextJS · Expo · Django
+
 Scripting Bash · Python
 
 Tooling Claude · Obsidian · Postman
