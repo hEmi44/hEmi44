@@ -12,8 +12,6 @@ Daily PHP · Symfony · PostgreSQL · Docker · Git · Linux
 
 Scripting Bash · Python
 
-Side projects Next.js · Expo · Supabase
-
 Tooling Claude · Obsidian · Postman
 
 Learning Sentry · ImprovMX
