@@ -8,13 +8,13 @@
 
 <details> <summary><b>Full stack and tools</b></summary> <br>
 
-Daily PHP · Symfony · PostgreSQL · Docker · Git · GitHub · Bitbucket · Linux · Postman
+Daily PHP · Symfony · PostgreSQL · Docker · Git · Linux
 
 Scripting Bash · Python
 
 Side projects Next.js · Expo · Supabase
 
-Tooling Claude · Obsidian · Linear · Tailscale
+Tooling Claude · Obsidian · Postman
 
 Learning Sentry · ImprovMX
 
