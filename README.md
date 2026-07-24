@@ -14,9 +14,7 @@ Scripting Bash · Python
 
 Tooling Claude · Obsidian · Postman
 
-Learning Sentry · ImprovMX
-
-Used before Java · Spring · Kafka · Liquibase
+Used before Java · Spring 
 
 </details>
 
